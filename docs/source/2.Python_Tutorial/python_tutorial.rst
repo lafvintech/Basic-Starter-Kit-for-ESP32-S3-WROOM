@@ -4,7 +4,8 @@ Python Language Tutorial
 
 .. toctree::
     :maxdepth: 1
-
+    
+    Python_preparation
     1_led
     2_button&led
     3_led_bar
