@@ -29,8 +29,7 @@ to select “Manage”.
 
 **Installing CH343**
 
-1. First, download CH343 driver, click `HERE <http://www.wch-ic.com/search?t=all
-&q=ch343>`_ to download the appropriate one based on your operating system. 
+1. First, download CH343 driver, click `HERE <http://www.wch-ic.com/search?t=all&q=ch343>`_ to download the appropriate one based on your operating system. 
 
 .. figure:: img/C_preparation/driver_7.png
    :align: center
@@ -41,7 +40,7 @@ If you would not like to download the installation package, you can open
 .. figure:: img/C_preparation/driver_8.png
    :align: center
 
-1. Open the folder “Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343/Windows/”
+2. Open the folder “Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343/Windows/”
 
 .. figure:: img/C_preparation/driver_9.png
    :align: center
@@ -74,8 +73,7 @@ and you can see the following interface.
 MacOS
 ^^^^^^
 
-1. First, download CH343 driver, click `HERE <http://www.wch-ic.com/search?t=all
-&q=ch343>`_ to download the appropriate one based on your operating system. 
+1. First, download CH343 driver, click `HERE <http://www.wch-ic.com/search?t=all&q=ch343>`_ to download the appropriate one based on your operating system. 
 
 .. figure:: img/C_preparation/driver_7.png
    :align: center
