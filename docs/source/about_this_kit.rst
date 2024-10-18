@@ -1,7 +1,7 @@
 About This Kit
 ===============
 
-LAFVIN Super Starter Kit For Esp32 S3
+LAFVIN Basic Starter Kit For Esp32 S3
 ---------------------------------------
 
 Introduction:

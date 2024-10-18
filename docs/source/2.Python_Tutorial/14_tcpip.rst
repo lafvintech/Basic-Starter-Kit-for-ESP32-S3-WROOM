@@ -31,7 +31,7 @@ Install ControlP5.
 
 .. image:: img/other/processing0.png
     
-Open the “Super_Starter_Kit_for_ESP32_S3\\processing\\Processing_wifi.pde”, and click "Run".
+Open the “Basic_Starter_Kit_for_ESP32_S3\\processing\\Processing_wifi.pde”, and click "Run".
 
 .. image:: img/other/processing_code.png
 
@@ -87,7 +87,7 @@ data monitor port. Click “Listening”。
 
 .. image:: img/other/processing4-2.png
 
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “14.1_TCP_a
@@ -176,7 +176,7 @@ Connect ESP32-S3 to the computer using a USB cable.
 
 Code
 ^^^^^^^
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “14.2_TCP_as_Server” and double click “TCP_as_Server.py”.
@@ -194,7 +194,7 @@ waiting to connecting to other network devices.
 
 .. image:: img/software/21.2-1.png
 
-Processing： Open the “Super_Starter_Kit_for_ESP32_S3/Codes/MicroPytho
+Processing： Open the “Basic_Starter_Kit_for_ESP32_S3/Codes/MicroPytho
 n_Codes/14.2_TCP_as_Server/sketchWiFi/Processing_wifi.pde”. Based on the message 
 printed in "Shell", enter the correct IP address and port when processing, and 
 click to establish a connection with ESP32-S3 to communicate.

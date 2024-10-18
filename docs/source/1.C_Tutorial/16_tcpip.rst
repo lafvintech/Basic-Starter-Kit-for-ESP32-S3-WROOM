@@ -31,7 +31,7 @@ Install ControlP5.
 
 .. image:: img/other/processing0.png
 
-Open the “Super_Starter_Kit_for_ESP32_S3\\Sketches\\Sketches\\Sketch_16.1_
+Open the “Basic_Starter_Kit_for_ESP32_S3\\Sketches\\Sketches\\Sketch_16.1_
 WiFiClient\\sketchWiFi\\Processing_wifi.pde”, and click "Run".
 
 .. image:: img/other/processing4.png
@@ -201,7 +201,7 @@ router, press the reset button as shown below and wait for ESP32-S3 to run again
 
 .. image:: img/phenomenon/24.2.png
 
-Processing： Open the “Super_Starter_Kit_for_ESP32_S3\\Sketches\\Sketches
+Processing： Open the “Basic_Starter_Kit_for_ESP32_S3\\Sketches\\Sketches
 \\Sketch_16.2_WiFiServer\\sketchWiFi\\Processing_wifi.pde”. Based on the messages printed 
 by the serial monitor, enter correct IP address and serial port in Processing to 
 establish connection and make communication.

@@ -15,7 +15,7 @@ Download the Thonny
 `MacOS Thonny <https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.pkg>`_
 
 .. note:: 
-   You can also open “Super_Starter_Kit_for_ESP
+   You can also open “Basic_Starter_Kit_for_ESP
    2_S3/Python/Python_Software”, we have prepared it in advance.
 
 Installation
@@ -83,13 +83,13 @@ Burning a Micropython Firmware
 Windows
 ~~~~~~~~
 
-Micropython Firmware is also provided in our data folder "Super_Starter_Kit_for_ESP32_S3/Python/Python_Firmware".
+Micropython Firmware is also provided in our data folder "Basic_Starter_Kit_for_ESP32_S3/Python/Python_Firmware".
 
 Window Connect your computer and ESP32-S3 with a USB cable.
 
 .. image:: img/Python_prepartion/esp32_connect.png
 
-Open Super_Starter_Kit_for_ESP32_S3/Python/Python_Firmware Enter cmd on path bar 
+Open Basic_Starter_Kit_for_ESP32_S3/Python/Python_Firmware Enter cmd on path bar 
 then press Enter.
 
 .. image:: img/Python_prepartion/cmd1.png
@@ -112,7 +112,7 @@ As shown in the figure below after completion.
 
 MacOS
 ~~~~~~
-Open Super_Starter_Kit_for_ESP32_S3/Python/Python_Firmware. Right- click and 
+Open Basic_Starter_Kit_for_ESP32_S3/Python/Python_Firmware. Right- click and 
 select New Terminal at Folder.
 
 .. image:: img/Python_prepartion/mac1.png
@@ -168,7 +168,7 @@ Thonny to writer and debug programs.
 
 .. image:: img/Python_prepartion/online2.png
 
-In the new dialog box, select “HelloWorld.py” in “ESP32S3_Super_Starter_Kit/Pyt
+In the new dialog box, select “HelloWorld.py” in “ESP32S3_Basic_Starter_Kit/Pyt
 hon/Python_Codes/00.0_HelloWorld” folder.
 
 .. image:: img/Python_prepartion/online3.png
@@ -189,7 +189,7 @@ then runs file main.py, and finally, it enters “Shell”. Therefore, to make
 ESP32-S3 execute user’s programs after resetting, we need to add a guiding 
 program in boot.py to execute user’s code.
 
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/MicroPy_Codes. Open “Thonny”.
 
 Thonny Common Operation

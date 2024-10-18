@@ -39,7 +39,7 @@ button switch is pressed, the buzzer sounds and when the button is released, the
 buzzer stops. It is analogous to our earlier project that controlled an LED ON 
 and OFF.
 
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “06.1_Doorbe

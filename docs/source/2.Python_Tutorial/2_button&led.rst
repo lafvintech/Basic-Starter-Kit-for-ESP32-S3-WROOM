@@ -42,7 +42,7 @@ Sketch
 ^^^^^^^
 This project is designed to learn to control an LED with a push button switch. 
 First, we need to read the state of the switch and then decide whether the LED 
-is turned on or not based on it. Move the program folder “Super_Starter
+is turned on or not based on it. Move the program folder “Basic_Starter
 _Kit_for_ESP32_S3/Python/Python_Codes” to disk(D) in advance with the path of “
 D:/Micropython_Codes”. Open “Thonny”，click “This computer” >> “D:” >> “Micropython
 _Codes” >> “02.1_ButtonAndLed” and double click “ButtonAndLed.py”.
@@ -119,7 +119,7 @@ and circuits as we used in the previous section.
 Code
 ^^^^^^^
 **02.2_Tablelamp**
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”. Open “Thonn
 y”，click “This computer” >> “D:” >> “Micropython_Codes” >> “02.2_TableLamp”and dou
 ble click “TableLamp.py”.

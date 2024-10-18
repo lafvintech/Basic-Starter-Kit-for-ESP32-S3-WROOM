@@ -32,7 +32,7 @@ the LED turns ON. Conversely, when the GPIO2 ESP32-S3 WROOM output level is low,
 the LED turns OFF. Therefore, we can let GPIO2 circularly output high and low level 
 to make the LED blink. 
 Upload the following Sketch: 
-:guilabel:`LAFVIN_Super_Starter_Kit_For_Esp32_S3\Sketches\Sketch_01.1_Blink.`
+:guilabel:`LAFVIN_Basic_Starter_Kit_For_Esp32_S3\Sketches\Sketch_01.1_Blink.`
 
 Next we will introduce two ways to upload code to ESP32-S3 WROOM.
 

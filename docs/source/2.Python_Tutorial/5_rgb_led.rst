@@ -31,7 +31,7 @@ Code
 ^^^^^^^
 We need to create three PWM channels and use random duty cycle to make random 
 RGBLED color.
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “05.1_Random

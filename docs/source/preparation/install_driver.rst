@@ -36,12 +36,12 @@ to select “Manage”.
    :align: center
 
 If you would not like to download the installation package, you can open 
-“Lafvin_Super_Starter_Kit_for_ESP32_S3/CH343”, we have prepared the installation package.
+“Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343”, we have prepared the installation package.
 
 .. figure:: img/C_preparation/driver_8.png
    :align: center
 
-1. Open the folder “Lafvin_Super_Starter_Kit_for_ESP32_S3/CH343/Windows/”
+1. Open the folder “Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343/Windows/”
 
 .. figure:: img/C_preparation/driver_9.png
    :align: center
@@ -81,8 +81,8 @@ MacOS
    :align: center
 
 If you would not like to download the installation package, you can open 
-“Lafvin_Super_Starter_Kit_for_ESP32_S3/CH343”, we have prepared the installation package.
-Second, open the folder “Lafvin_Super_Starter_Kit_for_ESP32_S3/CH343/MAC/”
+“Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343”, we have prepared the installation package.
+Second, open the folder “Lafvin_Basic_Starter_Kit_for_ESP32_S3/CH343/MAC/”
 
 .. figure:: img/C_preparation/driver_13.png
    :align: center

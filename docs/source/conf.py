@@ -10,7 +10,7 @@
 from pygments.lexers import Python3Lexer
 import time
 
-project = 'Super-Starter-Kit-for-ESP32-S3-WROOM'
+project = 'Basic-Starter-Kit-for-ESP32-S3-WROOM'
 copyright = '2024, LAFVIN'
 author = 'LAFVIN'
 

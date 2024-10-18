@@ -21,7 +21,7 @@ Connect ESP32-S3 to the computer using the USB cable.
 
 Code
 ^^^^^^^
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 **13.1_Station_mode**
@@ -79,7 +79,7 @@ Connect ESP32-S3 to the computer using the USB cable.
 
 Code
 ^^^^^^^
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “13.2_AP_mod
@@ -158,7 +158,7 @@ Component List & Circuit are the same as in Project 23.1.
 
 Code
 ^^^^^^
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “13.3_AP+ST

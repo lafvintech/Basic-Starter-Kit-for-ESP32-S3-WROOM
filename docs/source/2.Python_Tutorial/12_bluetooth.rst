@@ -30,7 +30,7 @@ iPhone users can download it from this link:
 
 Code
 ^^^^^^^
-Move the program folder “Super_Starter_Kit_for_ESP32_S3/Python/Python_C
+Move the program folder “Basic_Starter_Kit_for_ESP32_S3/Python/Python_C
 odes” to disk(D) in advance with the path of “D:/Micropython_Codes”.
 
 Open “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “12.1_BLE”. 
@@ -218,7 +218,7 @@ Connect ESP32-S3 to the computer using a USB cable.
 
 Code
 ^^^^^^
-Move the program folder  “Super_Starter_Kit_for_ESP32_S3/Python/Python_Codes”  to disk(D) 
+Move the program folder  “Basic_Starter_Kit_for_ESP32_S3/Python/Python_Codes”  to disk(D) 
 in advance with the path of  “D:/Micropython_Codes”.
 Open  “Thonny”, click “This computer” >> “D:” >> “Micropython_Codes” >> “12.2_BL
 E_LED”. Select “ble_advertising.py”, right click your mouse to select  “Upload t
