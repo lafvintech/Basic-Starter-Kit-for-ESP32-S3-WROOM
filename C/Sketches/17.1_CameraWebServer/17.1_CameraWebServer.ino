@@ -24,8 +24,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char* ssid     = "2A804";
-const char* password = "la1234567890";
+const char* ssid     = "your_ssid";
+const char* password = "your_password ";
 
 void startCameraServer();
 
@@ -82,7 +82,7 @@ void setup() {
 
   sensor_t * s = esp_camera_sensor_get();
   // initial sensors are flipped vertically and colors are a bit saturated
-  s->set_vflip(s, 1); // flip it back
+  s->set_vflip(s, 0); // flip it back
   s->set_brightness(s, 1); // up the brightness just a bit
   s->set_saturation(s, 0); // lower the saturation
   

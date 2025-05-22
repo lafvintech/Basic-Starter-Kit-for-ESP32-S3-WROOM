@@ -7,8 +7,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid     = "2A804";   //input your wifi name
-const char* password = "la1234567890";   //input your wifi passwords
+const char* ssid     = "your_ssid";   //input your wifi name
+const char* password = "your_password";   //input your wifi passwords
 
 void cameraInit(void);
 void startCameraServer();
@@ -93,7 +93,7 @@ void cameraInit(void){
 
   sensor_t * s = esp_camera_sensor_get();
   // initial sensors are flipped vertically and colors are a bit saturated
-  s->set_vflip(s, 1); // flip it back
+  s->set_vflip(s, 0); // flip it back
   s->set_brightness(s, 1); // up the brightness just a bit
   s->set_saturation(s, 0); // lower the saturation
 }
